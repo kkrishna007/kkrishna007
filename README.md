@@ -16,7 +16,7 @@
 ![Kkrishna's Github Profile](https://github-readme-stats.vercel.app/api?username=kkrishna007&show_icons=true&hide_borders=true&count_private=true&theme=gradient) 
 
 ##  Top Languages
-![Kkrishna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkrishna007&show_icons=true&hide_borders=true&count_private=true&theme=gradient&langs_count=6&layout=compact)
+![Kkrishna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkrishna007&show_icons=true&hide_borders=true&count_private=true&bg_color=&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&langs_count=6&layout=compact)
 
 
 
