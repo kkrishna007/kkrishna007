@@ -5,7 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=kkrishna007&color=blueviolet&label=PROFILE+VIEWS">
 </a>
 
-###
 <a>
     <img src ="https://github.com/kkrishna007/kkrishna007/blob/main/dino.gif?raw=true">
 </a>
