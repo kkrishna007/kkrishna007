@@ -2,7 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/KkrishnaSaxena7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=KkrishnaSaxena7)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/kkrishna007?color=%23FF4500&label=karma&logo=Reddit&style=for-the-badge)
 <a>
-    <img src="https://komarev.com/ghpvc/?username=kkrishna007&color=red&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=kkrishna007&color=red>
 </a>
 
 
