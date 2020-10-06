@@ -13,10 +13,10 @@
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 ##  Stats
-![Kkrishna's Github Profile](https://github-readme-stats.vercel.app/api?username=kkrishna007&show_icons=true&hide_borders=true&count_private=true&theme=gradient) 
+![Kkrishna's Github Profile](https://github-readme-stats.vercel.app/api?username=kkrishna007&show_icons=true&hide_borders=true&count_private=true&theme=synthwave) 
 
 ##  Top Languages
-![Kkrishna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkrishna007&show_icons=true&hide_borders=true&count_private=true&bg_color=&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&langs_count=6&layout=compact)
+![Kkrishna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkrishna007&show_icons=true&hide_borders=true&count_private=true&bg_color=&theme=synthwave&langs_count=6&layout=compact)
 
 
 
