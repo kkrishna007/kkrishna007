@@ -7,7 +7,7 @@
 
 ###
 <a>
-    <img src="https://komarev.com/ghpvc/?username=kkrishna007&color=blueviolet&label=PROFILE+VIEWS">
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
 </a>
 
 
