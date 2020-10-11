@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img height="32" width="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fpremiere-pro-cc-logo%2F&psig=AOvVaw2kZINAYOHJ5aAgdkEBs5dL&ust=1602493571392000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOC41vGXrOwCFQAAAAAdAAAAABAD" /> 
+<img height="32" width="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fpremiere-pro-cc-logo%2F&psig=AOvVaw2kZINAYOHJ5aAgdkEBs5dL&ust=1602493571392000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOC41vGXrOwCFQAAAAAdAAAAABAD"/> 
 
 
 
