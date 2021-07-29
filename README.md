@@ -33,7 +33,7 @@
 [github]: https://github.com/kkrishna007
 [reddit]: https://www.reddit.com/user/KKRISHNA007
 [discord]: https://discord.com/channels/@me/710872013933117500
-[instagram]:https://www.instagram.com/kkrishna.saxena.007/
+[instagram]:https://www.instagram.com/mai.kkrishna.hu/
 [youtube]:https://www.youtube.com/c/bangadbillu
 [twitter]:https://twitter.com/KkrishnaSaxena7
 
