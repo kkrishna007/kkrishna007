@@ -4,6 +4,9 @@
 <a>
     <img src="https://komarev.com/ghpvc/?username=kkrishna007&color=blueviolet&label=PROFILE+VIEWS">
 </a>
+## **About me 👦🏻**
+
+### I am currently pursuing my Bachelor's (CCE) from Manipal Institute Of Technology.
 
 <a>
     <img src ="https://github.com/kkrishna007/kkrishna007/blob/main/dino.gif?raw=true">
