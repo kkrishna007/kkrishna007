@@ -6,7 +6,7 @@
 </a>
 ## **About me 👦🏻**
 
-### I am currently pursuing my Bachelor's (CCE) from Manipal Institute Of Technology.
+### Who am I really, in the grand scheme of things?
 
 <a>
     <img src ="https://github.com/kkrishna007/kkrishna007/blob/main/dino.gif?raw=true">
