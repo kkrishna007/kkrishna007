@@ -15,10 +15,7 @@
 ### Connect with me:
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />][github]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/discord.svg" />][discord]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 ### Languages and Tools:
